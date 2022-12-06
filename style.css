@@ -1,0 +1,220 @@
+.whole{
+    background-color: gray;
+    height: 1169px;
+}
+   
+
+.greetings{
+    border: 5px solid red;
+    border-radius: 10px;
+    width: 145px;
+    background-color: white;
+    color: crimson;
+    font-weight: bold;
+    padding: 20px 78px;
+    margin: 8px 20px;
+    margin: auto;
+    box-shadow: 4px 4px purple; 
+    text-shadow: 1px 1px 2px  rgb(7 7 34);
+    box-shadow: 4px 4px purple;
+    line-height: 2;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+.greenbox{
+    border: 5px solid green;
+    display: relative;
+    
+    padding: 8px;
+    
+    width: 1480px;
+    height: 530px;
+}
+.address{
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(21, 0, 56);
+    font-weight: bold;
+    width: 200px;
+    padding: 20px;
+    position: absolute;
+    top: 168px;
+    left: 15px;
+    height: 135px;
+    text-shadow: 1px 1px 2px  rgb(7 7 34);
+    box-shadow: 4px 4px purple;
+    line-height: 2;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 180px;
+}
+.img{
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: white;
+    color: navy;
+    font-weight: bold;
+    width: 200px;
+    padding: 20px;
+    position: absolute;
+    top: 172px;
+    right: 37px;
+    box-shadow: 4px 4px purple;
+    display: flex;
+    justify-content: center;
+}
+.service{
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: white;
+    color: navy;
+    font-weight: bold;
+    width: 200px;
+    padding: 20px;
+    position: absolute;
+    top: 503px;
+    left: 16px;
+    height: 154px;
+   
+    text-shadow: 1px 1px 2px  rgb(7 7 34);
+    box-shadow: 4px 4px purple;
+    
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
+
+.reviews{
+    display: flex;
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: white;
+    color: navy;
+    font-weight: bold;
+    width: 200px;
+    padding: 20px;
+    position: absolute;
+    top: 500px;
+    right: 37px;
+    height: 154px;
+    justify-content: center;
+    text-shadow: 1px 1px 2px  rgb(7 7 34);
+    box-shadow: 4px 4px purple;
+    
+    font-size: large;
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.rateus{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    font-size:17px ;
+}
+span{
+    font-size: 50px;
+    font-size: 11px;
+    position: relative;
+    top: 46px;
+    left: -59px;
+}
+form{
+    display: block;
+    position: absolute;
+    top: 611px;
+    right: 80px;
+}
+.submit{
+border: 2px solid red ;
+background-color: red;
+border-radius:30px ;
+box-shadow: 2px 2px purple;
+position: absolute;
+    top: 50px;
+    left: 47px
+}
+.submitb{
+    text-shadow: 1px 1px 2px  rgb(7 7 34);
+    position: absolute;
+    top: 35px;
+    left: 67px
+}
+table{
+    border: 3px solid green;
+    position: relative;
+    top: 538px;
+    right: -363px;
+    border-collapse: collapse;
+}
+.welcomeh{
+    padding: 20px;
+}
+.bg{
+    background-color: rgb(253, 253, 123);
+}
+.fruits{
+    border-right: 5px solid green;
+    border-bottom: 1px solid green;
+    padding: 25px;
+    
+}
+.vegetables{
+    border-left: 5px solid green;
+    border-bottom: 1px solid green;
+}
+.bottomb{
+    border-bottom: 7px solid green;
+    background-color: rgb(253, 253, 123);
+    border-right: 5px solid green;
+    
+    line-height: 25px;
+}
+.other{
+    border-bottom: 1px solid green;
+    background-color: rgb(253, 253, 123);
+    padding: 20px;
+}
+.items{
+    background-color: rgb(253, 253, 123);
+    line-height: 29px;
+}
+.welcomeh{
+    background-color: green;
+    border: 3px solid green;
+}
+.listh{
+    border: 2px solid green;
+}
+.offer{
+    border: 6px solid red;
+    display: flex;
+   z-index: 1;
+   
+    background-color: greenyellow;
+    width: 460px;
+    justify-content: space-around;
+    border-radius: 16px;
+    margin: auto;
+    position: fixed;
+    top: 596px;
+    left: 551px;
+    box-shadow: 4px 4px purple; 
+    color: rgb(151, 9, 9);
+    font-style: italic;
+    
+ }
+ .off{
+    font-size: large;
+    font-weight: bolder;
+ }
+ .discount{
+    font-size: large;
+ }
